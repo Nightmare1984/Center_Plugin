@@ -5,7 +5,6 @@ bl_info = {
     "blender": (4, 3, 0),
     "version": (0, 1, 0),
     "author": "Nightmare1984",
-    "tooltip": "Please select the object first.",
 }
 
 import bpy
