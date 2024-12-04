@@ -11,7 +11,7 @@ import bpy
 
 class CenterPlugin(bpy.types.Operator):
     bl_idname = "object.center_plugin"
-    bl_label = "Center Plugin"
+    bl_label = "Center Object"
     bl_options = {'REGISTER', 'UNDO'}
     bl_description = "Centers the selected object at the origin"
 
