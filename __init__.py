@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Center Plugin",
-    "description": "Center Plugin Is To Help You Center The Object",
+    "description": "Centers the selected object at the origin",
     "category": "Object",
     "blender": (4, 3, 0),
     "version": (0, 1, 0),
